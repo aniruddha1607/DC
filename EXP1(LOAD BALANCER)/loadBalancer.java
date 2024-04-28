@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.awt.*;
+import java.awt.*; 
 class loadBalancer{
 	static void printLoad(int processes, int servers){
 		int each = processes/servers;
